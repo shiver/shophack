@@ -1,0 +1,577 @@
+[Amulets,"]
+amulet of change,150,-
+amulet of ESP,150,-
+amulet of life saving,150,-
+amulet of magical breathing,150,-
+amulet of reflection,150,-
+amulet of restful sleep,150,-
+amulet of strangulation,150,-
+amulet of unchanging,150,-
+amulet versus poison,150,-
+imitation Amulet of Yendor,0,-
+Amulet of Yendor,30000,-
+[/Amulets]
+
+[Weapons,)]
+[Dagger]
+orcish dagger,4,crude dagger
+dagger,4,-
+silver dagger,40,-
+athame,4,-
+elven dagger,4,runed dagger
+[/Dagger]
+[Knife]
+worm tooth,2,-
+knife,4,-
+stiletto,4,-
+scalpel,6,-
+crysknife,100,-
+[/Knife]
+[Axe]
+axe,8,-
+battle-axe,40,double-headed axe
+[Pick-axe]
+pick-axe,50,-
+[/Pick-axe]
+dwarvish mattock,50,broad pick
+[/Axe]
+[Short sword]
+orcish short sword,10,crude short sword
+short sword,10,-
+dwarvish short sword,10,broad short sword
+elven short sword,10,runed short sword
+[/Short Sword]
+[Broadsword]
+broadsword,10,-
+runesword,300,runed broadsword
+elven broadsword,10,runed broadsword
+[/Broadsword]
+[Long sword]
+long sword,15,-
+katana,80,samurai sword
+[/Long sword]
+[Two-handed sword]
+two-handed sword,50,--
+tsurugi,500,long samurai sword
+[/Two-handed sword]
+[Scimitar]
+scimitar,15,curved sword
+[/Scimitar]
+[Saber]
+silver saber,75,-
+[/Saber]
+[Club]
+club,3,-
+aklys,4,thonged club
+[/Club]
+[Mace]
+mace,5,-
+[/Mace]
+[Morning star]
+morning star,10,-
+[/Morning star]
+[Flail]
+flail,4,-
+grappling hook,50,iron hook
+[/Flail]
+[Hammer]
+war hammer,5,-
+[/Hammer]
+[Quarterstaff]
+quarterstaff,5,staff
+[/Quarterstaff]
+[Polearm]
+partisan,10,vulgar polearm
+fauchard,5,pole sickle
+glaive,6,single-edged polearm
+bec-de-corbin,8,beaked polearm
+spetum,5,forked polearm
+lucern hammer,7,pronged polearm
+guisarme,5,pruning hook
+ranseur,6,hilted polearm
+voulge,5,pole cleaver
+bill-guisarme,7,hooked polearm
+bardiche,7,long poleaxe
+halberd,10,angled poleaxe
+[/Polearm]
+[Spear]
+orcish spear,3,crude spear
+spear,3,-
+silver spear,40,-
+elven spear,3,runed spear
+dwarvish spear,3,stout spear
+[/Spear]
+[Javelin]
+javelin,3,throwing spear
+[/Javelin]
+[Trident]
+trident,5,-
+[/Trident]
+[Lance]
+lance,10,-
+[/Lance]
+[Bow]
+orcish bow,60,crude bow
+bow,60,-
+elven bow,60,runed bow
+yumi,60,long bow
+orcish arrow,2,crude arrow
+arrow,2,-
+silver arrow,5,-
+elven arrow,2,runed arrow
+ya,4,bamboo arrow
+[/Bow]
+[Sling]
+sling,20,-
+flintstone,1,
+;other rocks/gems/glass  : vary  vary gems : vary  --
+[Crossbow]
+crossbow,40,-
+crossbow bolt,2,-
+[Dart]
+dart ,2,-
+[Shuriken]
+shuriken,5,throwing star
+[Boomerang]
+boomerang,20,-
+[Whip]
+bullwhip,4,-
+rubber hose,3,-
+[Unicorn horn]
+unicorn horn,100,-
+
+
+[Armor,[]
+[Shirts]
+Hawaiian shirt,3,-
+T-shirt,2,-
+[/Shirts]
+[Suits]
+leather jacket,10,-
+leather armor,5,-
+orcish ring mail,80,crude ring mail
+studded leather armor,15,-
+ring mail,100,-
+scale mail,45,-
+orcish chain mail,75,crude chain mail
+chain mail,75,-
+elven mithril coat,240,-
+splint mail,80,-
+banded mail,90,-
+dwarvish mithril coat,240,-
+bronze plate mail,400,-
+plate mail,600,-
+crystal plate mail,820,-
+[/Suits]
+[Dragon suits]
+red dragon scales,500,-
+white dragon scales,500,-
+orange dragon scales,500,-
+blue dragon scales,500,-
+green dragon scales,500,-
+yellow dragon scales,500,-
+black dragon scales,700,-
+silver dragon scales,700,-
+gray dragon scales,700,-
+red dragon scale mail,900,-
+white dragon scale mail,900,-
+orange dragon scale mail,900,-
+blue dragon scale mail,900,-
+green dragon scale mail,900,-
+yellow dragon scale mail,900,-
+black dragon scale mail,1200,-
+silver dragon scale mail,1200,-
+gray dragon scale mail,1200,-
+[/Dragon suits]
+[Cloaks]
+mummy wrapping,2,-
+orcish cloak,40,coarse mantelet
+dwarvish cloak,50,hooded cloak
+leather cloak,40,-
+cloak of displacement,50,*piece of cloth
+oilskin cloak,50,slippery cloak
+alchemy smock,50,apron
+cloak of invisibility,60,*opera cloak
+cloak of magic resistance,60,*ornamental cope
+elven cloak,60,faded pall
+robe,50,-
+cloak of protection,50,*tattered cape
+[/Cloaks]
+[Helmets]
+fedora,1,-
+dunce cap,1,conical hat
+cornuthaum,80,conical hat
+dented pot,8,-
+elven leather helm,8,leather hat
+helmet,10,*plumed helmet
+orcish helm,10,iron skull cap
+helm of brilliance,50,*etched helmet
+helm of opposite alignment,50,*crested helmet
+helm of telepathy,50,*visored helmet
+dwarvish iron helm,20,hard hat
+[/Helmets]
+[Gloves]
+leather gloves,8,*old gloves
+gauntlets of dexterity,50,*padded gloves
+gauntlets of fumbling,50,*riding gloves
+gauntlets of power,50,*fencing gloves
+[/Gloves]
+[Shields]
+small shield,3,-
+orcish shield,7,red-eyed
+Uruk-hai shield,7,white-handed
+elven shield,7,blue and green
+dwarvish roundshield,10,large round
+large shield,10,-
+shield of reflection,50,polished silver
+[/Shields]
+[Boots]
+low boots,8,walking shoes
+elven boots,8,*mud boots
+kicking boots,8,*buckled boots
+fumble boots,30,*riding boots
+levitation boots,30,*snow boots
+jumping boots,50,*hiking boots
+speed boots,50,*combat boots
+water walking boots,50,*jungle boots
+high boots,12,jackboots
+iron shoes,16,hard shoes
+[/Boots]
+[/Armor]
+
+[Food,%]
+[Meat]
+meatball,5,-
+meat ring,5,-
+meat stick,5,-
+egg,9,-
+tripe ration,15,-
+huge chunk of meat,105,-
+corpse,5,-
+[/Meat]
+[Fruits and vegetables]
+kelp frond,6,-
+eucalyptus leaf,6,-
+clove of garlic,7,-
+sprig of wolfsbane,7,-
+apple,7,-
+carrot,7,-
+pear,7,-
+banana,9,-
+orange,9,-
+melon,10,-
+slime mold,17,-
+[/Fruits and vegetables]
+[People food]
+fortune cookie,7,-
+candy bar,10,-
+cream pie,10,-
+lump of royal jelly,15,-
+pancake,15,-
+C-ration,20,-
+K-ration,25,-
+cram ration,35,-
+food ration,45,-
+lembas wafer,45,-
+tin,5,-
+[/People food]
+[/Food]
+
+
+[Scrolls,?]
+mail,0,stamped
+identify,20,-
+light,50,-
+blank paper,60,unlabeled
+enchant weapon,60,-
+enchant armor,80,-
+remove curse,80,-
+confuse monster,100,-
+destroy armor,100,-
+fire,100,-
+food detection,100,-
+gold detection,100,-
+magic mapping,100,-
+scare monster,100,-
+teleportation,100,-
+amnesia,200,-
+create monster,200,-
+earth,200,-
+taming,200,-
+charging,300,-
+genocide,300,-
+punishment,300,-
+stinking cloud,300,-
+[/Scrolls]
+
+
+[Spellbooks,+]
+blank paper,0,plain
+Book of the Dead,10000,papyrus
+[Attack]
+force bolt,100,-
+drain life,200,-
+magic missile,200,-
+cone of cold,400,-
+fireball,400,-
+finger of death,700,-
+[/Attack]
+[Healing]
+healing,100,-
+cure blindness,200,-
+cure sickness,300,-
+extra healing,300,-
+stone to flesh,300,-
+restore ability,400,-
+[/Healing]
+[Divination]
+detect monsters,100,-
+light,100,-
+detect food,200,-
+clairvoyance,300,-
+detect unseen,300,-
+identify,300,-
+detect treasure,400,-
+magic mapping,500,-
+[/Divination]
+[Enchantment]
+sleep,100,-
+confuse monster,200,-
+slow monster,200,-
+cause fear,300,-
+charm monster,300,-
+[/Enchantment]
+[Clerical]
+protection,100,-
+create monster,200,-
+remove curse,300,-
+create familiar,600,-
+turn undead,600,-
+[/Clerical]
+[Escape]
+jumping,100,-
+haste self,300,-
+invisibility,400,-
+levitation,400,-
+teleport away,600,-
+[/Escape]
+[Matter]
+knock,100,-
+wizard lock,200,-
+dig,500,-
+polymorph,600,-
+cancellation,700,-
+[/Matter]
+[/Spellbooks]
+
+
+[Potions,!]
+booze,50,-
+fruit juice,50,-
+see invisible,50,-
+sickness,50,-
+confusion,100,-
+extra healing,100,-
+hallucination,100,-
+healing,100,-
+restore ability,100,-
+sleeping,100,-
+water,100,-
+blindness,150,-
+gain energy,150,-
+invisibility,150,-
+monster detection,150,-
+object detection,150,-
+enlightenment,200,-
+full healing,200,-
+levitation,200,-
+polymorph,200,-
+speed,200,-
+acid,250,-
+oil,250,-
+gain ability,300,-
+gain level,300,-
+paralysis,300,-
+[/Potions]
+
+[Rings,=]
+meat ring,5,-
+adornment,-100,-
+hunger,-100,-
+protection,100,-
+protection from shape changers,100,-
+stealth,-100,-
+sustain ability,100,-
+warning,100,-
+aggravate monster,150,-
+cold resistance,150,-
+gain constitution,150,-
+gain strength,150,-
+increase accuracy,150,-
+increase damage,150,-
+invisibility,150,-
+poison resistance,150,-
+see invisible,150,-
+shock resistance,150,-
+fire resistance,200,-
+free action,200,-
+levitation,200,-
+regeneration,200,-
+searching,200,-
+slow digestion,200,-
+teleportation,200,-
+conflict,300,-
+polymorph,300,-
+polymorph control,300,-
+teleport control,300,-
+[/Rings]
+
+[Wands,/]
+light,100,-
+nothing,100,-
+digging,150,-
+enlightenment,150,-
+locking,150,-
+magic missile,150,-
+make invisible,150,-
+opening,150,-
+probing,150,-
+secret door detection,150,-
+slow monster,150,-
+speed monster,150,-
+striking,150,-
+undead turning,150,-
+cold,175,-
+fire,175,-
+lightning,175,-
+sleep,175,-
+cancellation,200,-
+create monster,200,-
+polymorph,200,-
+teleportation,200,-
+death,500,-
+wishing,500,-
+[/Wands]
+
+[Tools,(]
+[Containers]
+sack,2,bag
+large box,8,-
+chest,16,-
+ice box,42,-
+bag of holding,100,-
+bag of tricks,100,bag
+oilskin sack,100,bag
+[/Containers]
+[Unlocking tools]
+credit card*,10,-
+lock pick ,20,-
+skeleton key,10,key
+[/Unlocking tools]
+[Light sources]
+tallow candle,10,candle
+wax candle,20,candle
+brass lantern,12,-
+oil lamp,10,lamp
+magic lamp,50,lamp
+Candelabrum of Invocation,5000,candelabrum
+[/Light sources]
+[Instruments]
+tin whistle,10,whistle
+magic whistle,10,whistle
+bugle,15,-
+wooden flute,12,flute
+magic flute,36,flute
+tooled horn,15,horn
+frost horn,50,horn
+fire horn,50,horn
+horn of plenty,50,horn
+leather drum,25,drum
+drum of earthquake,25,drum
+wooden harp,50,harp
+magic harp,50,harp
+bell,50,-
+Bell of Opening,5000,silver bell
+[/Instruments]
+[Traps]
+beartrap,60,-
+land mine,180,-
+[/Traps]
+[Weapon-Tools]
+pick-axe,50,-
+grappling hook,50,iron hook
+unicorn horn,100,-
+[/Weapon-Tools]
+[Other tools]
+expensive camera*,200,-
+mirror,10,looking glass
+crystal ball,60,glass orb
+lenses,80,-
+blindfold,20,-
+towel,50,-
+saddle*,150,-
+leash,20,-
+stethoscope,75,-
+tinning kit,30,-
+tin opener,30,-
+can of grease,20,-
+figurine,80,-
+magic marker,50,-
+[/Other tools]
+
+
+[Gems and Stones,*]
+[Valuable gems]
+dilithium crystal,4500,soft  white
+diamond,4000,hard  white
+ruby,3500,hard  red
+jacinth,3250,hard  orange
+sapphire,3000,hard  blue
+black opal,2500,hard  black
+emerald,2500,hard  green
+turquoise,2000,soft  green, blue
+aquamarine,1500,hard  green, blue
+citrine,1500,soft  yellow
+amber,1000,soft  yellowish brown
+topaz,900,hard  yellowish brown
+jet,850,soft  black
+opal,800,soft  white
+chrysoberyl,700,soft  yellow
+garnet,700,soft  red
+amethyst,600,soft  violet
+jasper,500,soft  red
+fluorite,400,soft  green, blue, white, violet
+jade,300,soft  green
+agate,200,soft  orange
+obsidian,200,soft  black
+[/Valuable gems]
+[Worthless gems]
+black glass,0,soft  black
+blue glass,0,soft  blue
+green glass,0,soft  green
+orange glass,0    1   76   : soft  orange
+red glass,0,soft  red
+violet glass,0,soft  violet
+white glass,0,soft  white
+yellow glass,0,soft  yellow
+yellowish brown glass,0,soft  yellowish brown
+[/Worthless gems]
+[Stones]
+luckstone,60,soft  gray stone
+touchstone,45,soft  gray stone
+flintstone,1,soft  gray stone
+loadstone,1,soft  gray stone
+rock,0,soft  rock
+[/Stones]
+[/Gems and Stones]
+
+
+[Items,] 
+gold piece,1,-
+boulder,0,-
+statue,0,-
+heavy iron ball,10,-
+iron chain,0,-
+acid venom,0,-
+blinding venom,0,-
+[/Items]
